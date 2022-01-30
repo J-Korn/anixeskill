@@ -1,0 +1,89 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "coin gallery reppa",
+      "intents": [
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayStreamIntent",
+          "slots": [],
+          "samples": []
+        },
+        {
+          "name": "AboutIntent",
+          "slots": [],
+          "samples": [
+            "about",
+            "what is this",
+            "tell me about this"
+          ]
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "help me",
+            "how does this work",
+            "what should i do"
+          ]
+        },
+        {
+          "name": "PlayRadioIntent",
+          "slots": [],
+          "samples": [
+            "radio play",
+            "play radio",
+            "placeholder one",
+            "play my radio"
+          ]
+        },
+        {
+          "name": "PlayTvIntent",
+          "slots": [],
+          "samples": [
+            "placeholder two",
+            "play tv",
+            "tv"
+          ]
+        },
+        {
+          "name": "ShowAdIntent",
+          "slots": [],
+          "samples": [
+            "advertise",
+            "show advertisement"
+          ]
+        },
+        {
+          "name": "HideAdIntent",
+          "slots": [],
+          "samples": [
+            "hide advertisement",
+            "end advertisement",
+            "stop advertising"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
